@@ -1,7 +1,7 @@
 # GBIF_Analyzer
 Analyze some GBIF bee data for funzies
 
-This is a thing I did in order to take a deeper dive into the data from the paper "Worldwide occurrence records suggest a global decline in bee species richness" by Zattara and Aizen, published in the journal One Earth.
+This is a thing I did in order to take a deeper dive into the data from the paper "Worldwide occurrence records suggest a global decline in bee species richness" by Zattara and Aizen, published in the journal One Earth. Link to paper: https://www.cell.com/one-earth/pdfExtended/S2590-3322(20)30651-5
 
 In order for this code to work, you need the data from https://www.gbif.org/occurrence/download/0058082-200221144449610
 which is used as the input for GBIF-reader.py
