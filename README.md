@@ -6,4 +6,6 @@ which is used as the input for GBIF-reader.py
 
 Then GBIF-reader.py can slice the data and output a csv that can be further analyzed by GBIF-analyzer.py
 
+GBIF-speader_counter is essentially a branch of GBIF-reader that counts up data from different sources.
+
 I don't know why I did that way
